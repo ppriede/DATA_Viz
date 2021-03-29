@@ -1,82 +1,14 @@
 [
- {
-   "Estación": "Autopista",
-   "Ldía": 74.3,
-   "Lnoche": 68.4
- },
- {
-   "Estación": "Alameda",
-   "Ldía": 71.6,
-   "Lnoche": 65.3
- },
- {
-   "Estación": "Concepción Centro",
-   "Ldía": 70.4,
-   "Lnoche": 62.1
- },
- {
-   "Estación": "Viña Del Mar",
-   "Ldía": 68.7,
-   "Lnoche": 58.2
- },
- {
-   "Estación": "San Miguel",
-   "Ldía": 65.7,
-   "Lnoche": 59.5
- },
- {
-   "Estación": "Las Condes",
-   "Ldía": 66.4,
-   "Lnoche": 58
- },
- {
-   "Estación": "Valparaíso",
-   "Ldía": 66.7,
-   "Lnoche": 57.6
- },
- {
-   "Estación": "La Florida",
-   "Ldía": 64.5,
-   "Lnoche": 58.4
- },
- {
-   "Estación": "El Bosque",
-   "Ldía": 62.9,
-   "Lnoche": 57.5
- },
- {
-   "Estación": "Providencia",
-   "Ldía": 62.2,
-   "Lnoche": 54.2
- },
- {
-   "Estación": "Concepción Barrio Norte",
-   "Ldía": 61.5,
-   "Lnoche": 51.7
- },
- {
-   "Estación": "Cerro Navia",
-   "Ldía": 59.3,
-   "Lnoche": 52.8
- },
- {
-   "Estación": "Independencia",
-   "Ldía": 56.5,
-   "Lnoche": 48.4
- },
- {
-   "Estación": "Ñuñoa",
-   "Ldía": 57.1,
-   "Lnoche": 45.8
- },
- {
-   "Estación": "Casa",
-   "Ldía": 20,
-   "Lnoche": 30
- },
- {
-   "Estación": "Otro",
-   "Ldía": 40,
-   "Lnoche": 50
- }
+  [
+    [
+      "Estacion",
+      "Ldía",
+      "Lnoche",
+    ],
+    [
+      "Autopista",
+      74.3,
+      68.4,
+    ]
+  ]
 ]
