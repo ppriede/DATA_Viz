@@ -1,0 +1,87 @@
+[
+  [
+    "Estación",
+    "Ldía",
+    "Lnoche"
+  ],
+  [
+    "Autopista",
+    74.3,
+    68.4
+  ],
+  [
+    "Alameda",
+    71.6,
+    65.3
+  ],
+  [
+    "Concepción Centro",
+    70.4,
+    62.1
+  ],
+  [
+    "Viña Del Mar",
+    68.7,
+    58.2
+  ],
+  [
+    "San Miguel",
+    65.7,
+    59.5
+  ],
+  [
+    "Las Condes",
+    66.4,
+    58
+  ],
+  [
+    "Valparaíso",
+    66.7,
+    57.6
+  ],
+  [
+    "La Florida",
+    64.5,
+    58.4
+  ],
+  [
+    "El Bosque",
+    62.9,
+    57.5
+  ],
+  [
+    "Providencia",
+    62.2,
+    54.2
+  ],
+  [
+    "Concepción Barrio Norte",
+    61.5,
+    51.7
+  ],
+  [
+    "Cerro Navia",
+    59.3,
+    52.8
+  ],
+  [
+    "Independencia",
+    56.5,
+    48.4
+  ],
+  [
+    "Ñuñoa",
+    57.1,
+    45.8
+  ],
+  [
+    "Casa",
+    20,
+    30
+  ],
+  [
+    "Otro",
+    40,
+    50
+  ]
+]
